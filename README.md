@@ -1,2 +1,2 @@
 # Concentrate
-Concentrate, desarrollado con HTML, SASS &amp; JavaScript - Challenge Enyoi
+Concentrate, desarrollado con HTML, CSS &amp; JavaScript - Challenge Enyoi
